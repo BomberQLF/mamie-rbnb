@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
 
-    setInterval(showNextSlide, 3000);
+    setInterval(showNextSlide, 8000);
   }
 
   // Burger menu functionality
